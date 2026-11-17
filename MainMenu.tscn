@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://cw0on42eep7eq"]
+
+[node name="Control" type="Control" unique_id=148964557]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=672060084]
+layout_mode = 0
+offset_right = 720.0
+offset_bottom = 1280.0
+color = Color(0.09411765, 0.13725491, 0.24705882, 1)
+
+[node name="Label" type="Label" parent="." unique_id=2136858322]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0

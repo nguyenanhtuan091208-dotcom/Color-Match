@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cywbrjhio6esc"]
+
+[ext_resource type="Script" uid="uid://dlad2ph8dcqmr" path="res://Main.gd" id="1_glv2v"]
+
+[node name="Node2D" type="Node2D" unique_id=1038826761]
+script = ExtResource("1_glv2v")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=940341185]
+offset_right = 40.0
+offset_bottom = 40.0
